@@ -66,4 +66,4 @@ npm run test:cov
 Initial project setup with core NestJS structure and development tooling configured for building authentication services.
 
 **License**
-MIT Licensed
+
